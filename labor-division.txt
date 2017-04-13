@@ -1,0 +1,29 @@
+﻿Team Members: Violet Kozloff, Safia Williams, and Catherine Chen
+Project Title: French Verb Flashcards
+
+
+Catherine
+Deck (all but constructor with hashtable parameters)
+Flashcard
+FrenchFlashcards
+FrenchFlashcardsGUI
+FrenchFlashcardsPanel
+GameMode
+ModeOfPlay
+Contributions to User Manual (final)
+
+
+Safia
+Deck (constructor with hashtable parameters)
+EnglishVerb
+FrenchVerb
+Word
+User Manual (final)
+
+
+Violet
+Dictionary
+Contributions to FrenchFlashcardsPanel and Translate methods in EnglishVerb and FrenchVerb
+MonDico.txt, MonDictionnaire.txt, and testing documents
+StudyMode
+Description of how to run program
